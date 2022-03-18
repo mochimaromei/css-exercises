@@ -1,4 +1,4 @@
 .three {font-size:24px;}/*element three*/
-.odd {background-color:lightsalmon; font-family:'Verdana','DejaVu Sans','sans-serif'}/*all odd elements*/
+.odd {background-color:lightsalmon; font-family:Verdana,"DejaVu Sans",sans-serif}/*all odd elements*/
 #two {color:blue;font-size:36px;}
 #four {background-color:lightgreen;font-size:24px;font-weight:bold;}
